@@ -1,0 +1,68 @@
+p{
+font-style:normal; 
+font-size:25px;
+line-height:30px; 
+color:initial;
+}
+img{
+width:400px;
+height:450px;
+
+}
+h2{
+text-decoration: underline;
+text-transform: uppercase;
+text-align:justify;
+font-size:25px;
+}
+h1{
+	text-align:center;
+	text-transform: uppercase;
+	font-weight: bolder;
+	border:2px black solid;
+	width:900px;
+	font-size:60px;
+}
+ul{
+	font-size:30px;
+	text-align:justify-all;
+}
+li{
+list-style-position: inside;
+}
+body{
+background-color:green;
+background-size:90%;
+margin-left:200px;
+margin-right:200px;
+margin-top:80px;
+width:900px;
+background-image: url("img/ocean.jpg");
+
+}
+th{border:2px solid black;
+	
+}
+tr{
+border:2px solid black;
+}
+td{
+	border:2px solid black;
+}
+table{
+border-collapse:collapse;
+width:8500px;
+}
+h1+h2{
+line-height:200px;
+}
+video{
+	width:400px;
+	height:420px;
+}
+
+
+
+
+
+
